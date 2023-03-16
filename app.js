@@ -1,3 +1,2 @@
-window.onload = () => {
-    console.log('This is your first program executing!');
-}
+const test="this is my js programe";
+console.log(typeof test=="string");
